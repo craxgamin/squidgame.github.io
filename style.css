@@ -35,7 +35,7 @@ body{
 }
 @keyframes fadeIn{
     0%{
-        backdrop-filter: blur(10px);
+        backdrop-filter: blur(15x);
     }
     100%{
         backdrop-filter: blur(0);
